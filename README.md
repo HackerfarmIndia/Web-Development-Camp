@@ -18,6 +18,9 @@ Web Dev topics to be covered by participants who choose for self/group learning.
 >> * Create a Landing Page for an idea you might have (follow UI/UX design principles)
 >> * Create a Website for an idea you might have (should use css library/framework)
 
+> #### PowerUser Tool
+>> * Wix Website Builder
+
 ## 3. Interactivity
 > Learn:
 >> * JavaScript
