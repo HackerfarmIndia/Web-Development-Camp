@@ -12,6 +12,11 @@ Web Dev topics to be covered by participants who choose for self/group learning.
 >> * UI/UX, Mockups
 >> * Bootstrap/Bulma
 
+### Resources for Web-Design
+> Links:
+>> * HTML5 & CSS3 (https://learn.shayhowe.com/)
+>> * Flexbox (https://flexbox.io/)
+
 > Goal:
 >> * Design a simple webpage using HTML & CSS
 >> * Design a responsive webpage using HTML & CSS
