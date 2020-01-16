@@ -1,7 +1,11 @@
 # Web-Development-Camp
-Web Dev topics to be covered by participants who choose for self/group learning.
 
 ## 1. Command Line & Git
+> Learn:
+>> * Basic Usage of Terminal
+>> * Setting Up Git
+>> * Git Basic
+>> * Git & GitHub
 
 ## 2. Web Design
 > Learn:
@@ -11,42 +15,49 @@ Web Dev topics to be covered by participants who choose for self/group learning.
 >> * Cross Browser Support
 >> * UI/UX, Mockups
 >> * Bootstrap/Bulma
+>> * Best Practices for HTML & CSS
 
 ### Resources for Web-Design
 > Links:
->> * HTML5 & CSS3 (https://learn.shayhowe.com/)
->> * Flexbox (https://flexbox.io/)
+>> * HTML5 & CSS3 (https://learn.shayhowe.com/ , https://internetingishard.com/)
+>> * CSS Flexbox (https://flexbox.io/)
 
 > Goal:
 >> * Design a simple webpage using HTML & CSS
 >> * Design a responsive webpage using HTML & CSS
 >> * Create a Landing Page for an idea you might have (follow UI/UX design principles)
->> * Create a Website for an idea you might have (should use css library/framework)
+>> * Create a multi-page website (should use css library/framework)
 
 > #### PowerUser Tool
 >> * Wix Website Builder
 
 ## 3. Interactivity
 > Learn:
->> * JavaScript
->> * DOM & jQuery
->> * React
->> * Event-Driven programming
->> * AJAX
->> * Programming Skills
+>> * Basic JavaScript (Modern JavaScript ES6+) 
+>> * Document Object Model (DOM) & jQuery
+>> * Intermediate JavaScript, localStorage & JSON
 >> * Object Oriented Programming
->> * ES6+
+>> * APIs
+>> * React.js
 
 
 ## 4. Server Side
 > Learn:
->> * Nodejs/Python
 >> * Web Servers
->> * Cloud Services
->> * Advanced Programming Skills
->> * Web Framework 
+>> * Nodejs, NPM modules
+>> * Express.js
+>> * Authentication & Authorization (oAuth)
+>> * Microservices
 
 
 ## 5. Database & Data Persistence
+> Learn:
+>> * Database Software
+>> * Models, Schema
+>> * MongoDb
+>> * Firebase
 
-## 6. Authentication & Authorization
+## 6. Deployment
+> Learn:
+>> * Domain Name
+>> * Local & Cloud Deployment
