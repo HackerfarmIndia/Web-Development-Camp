@@ -61,3 +61,5 @@
 > Learn:
 >> * Domain Name
 >> * Local & Cloud Deployment
+
+*minor updates on weekly basis. Projects will be added soon.
