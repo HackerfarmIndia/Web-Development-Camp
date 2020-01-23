@@ -1,3 +1,13 @@
+HackerFarm conducts peer-driven accelerated bootcamp, led by [Rajanshu (Sunny)](https://www.linkedin.com/in/thecuriousmonk/). It's an 11 weeks in-house program which happens on a farm 30 kms away from Bangalore city. Participants go through weekdays yoga/volunteering, do daily standup, engage in learning and building solid software development skills, particulary web development with JavaScript as core programming language. 
+
+## Prep-Work
+> Complete the following tracks on Codecademy:
+>> * [Learn HTML](https://www.codecademy.com/learn/learn-html)
+>> * [Learn CSS](https://www.codecademy.com/learn/learn-css)
+>> * [JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) 
+
+![Full Stack Web Development](https://res.cloudinary.com/hackerfarm/image/upload/v1579786730/hf-programs/full-stack-web-development_e9kvmo.png)
+
 # Web-Development-Camp
 
 ## 1. Command Line & Git
