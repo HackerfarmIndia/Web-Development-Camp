@@ -1,4 +1,7 @@
-HackerFarm conducts peer-driven accelerated bootcamp, led by [Rajanshu (Sunny)](https://www.linkedin.com/in/thecuriousmonk/). It's an 11 weeks in-house program which happens on a farm 30 kms away from Bangalore city. Participants go through weekdays yoga/volunteering, do daily standup, engage in learning and building solid software development skills, particulary web development with JavaScript as core programming language. 
+HackerFarm conducts peer-driven accelerated bootcamp. It's an 11 weeks fulltime residency program which happens on a farm 30 kms away just outside Bangalore city. Participants go through weekdays yoga/volunteering, do daily standup, engage in learning and building solid software development skills, particulary web development with JavaScript as core programming language.
+
+The training program follow sprint-model to learn and project-based approach for building portfolio. It is suitable for participants who want to get developer jobs in startup companies.
+
 
 ## Prep-Work
 > Complete the following tracks on Codecademy:
@@ -50,6 +53,10 @@ HackerFarm conducts peer-driven accelerated bootcamp, led by [Rajanshu (Sunny)](
 >> * APIs
 >> * React.js
 
+> Goal:
+>> * Build To-Do App
+>> * 2 JavaScript Apps (using Vanilla Js)
+>> * Create-React-App 
 
 ## 4. Server Side
 > Learn:
@@ -59,6 +66,9 @@ HackerFarm conducts peer-driven accelerated bootcamp, led by [Rajanshu (Sunny)](
 >> * Authentication & Authorization (oAuth)
 >> * Microservices
 
+> Goal:
+>> * Basic Express App with Node
+>> * oAuth App implementation
 
 ## 5. Database & Data Persistence
 > Learn:
@@ -66,6 +76,9 @@ HackerFarm conducts peer-driven accelerated bootcamp, led by [Rajanshu (Sunny)](
 >> * Models, Schema
 >> * MongoDb
 >> * Firebase
+
+> Goal:
+>> * CRUD App with Express.js and Mongodb
 
 ## 6. Deployment
 > Learn:
